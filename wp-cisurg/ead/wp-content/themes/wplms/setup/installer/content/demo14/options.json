@@ -1,0 +1,512 @@
+{
+  "widget_wplms_dash_mycred_balance": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_mycred_stats": {
+    "_multiwidget": 1
+  },
+  "theme_mods_wplms": {
+    "0": false,
+    "nav_menu_locations": {
+      "main-menu": "128",
+      "mobile-menu": "128",
+      "footer-menu": "127"
+    },
+    "custom_css_post_id": -1,
+    "sidebars_widgets": {
+      "time": 1549461835,
+      "data": {
+        "wp_inactive_widgets": [
+          "text-3",
+          "vibeposts-3",
+          "vibetestimonials-3"
+        ],
+        "student_sidebar": [
+          "wplms_dash_stats-2",
+          "wplms_dash_stats-3",
+          "wplms_dash_stats-4",
+          "wplms_dash_stats-5",
+          "wplms_student_stats-2",
+          "wplms_dash_activity-2",
+          "wplms_dash_tasks-2",
+          "wplms_dash_mymodules-2"
+        ],
+        "instructor_sidebar": [
+          "wplms_instructor_dash_stats-2",
+          "wplms_instructor_dash_stats-3",
+          "wplms_instructor_dash_stats-4",
+          "wplms_instructor_dash_stats-5",
+          "wplms_instructor_dash_stats-6",
+          "wplms_instructor_dash_stats-7",
+          "wplms_instructor_dash_stats-8",
+          "wplms_instructor_dash_stats-9",
+          "wplms_instructor_commission_stats-2",
+          "wplms_instructor_stats-2",
+          "wplms_announcement-2",
+          "wplms_dash_instructing_modules-2",
+          "wplms_dash_push_notifications-2"
+        ],
+        "mainsidebar": [
+          "search-2",
+          "recent-posts-2",
+          "recent-comments-2",
+          "archives-2",
+          "categories-2",
+          "meta-2"
+        ],
+        "bbpress": [
+          "bp_course_search_widget-4"
+        ],
+        "coursesidebar": [
+          "bp_course_related_courses_widget-2",
+          "bp_course_widget-3",
+          "bp_course_reviews_widget-2"
+        ],
+        "searchsidebar": [
+          "bp_course_search_widget-3",
+          "bp_course_widget-4"
+        ],
+        "shopsidebar": [
+          "woocommerce_price_filter-2",
+          "woocommerce_layered_nav_filters-2",
+          "woocommerce_layered_nav-2",
+          "woocommerce_product_categories-2"
+        ],
+        "productsidebar": [
+          "woocommerce_top_rated_products-2"
+        ],
+        "buddypress": [
+          "vibe_course_categories_nav-2",
+          "bp_course_filter_widget-3",
+          "bp_course_widget-5"
+        ],
+        "checkout": [
+          "bp_course_related_courses_widget-3"
+        ],
+        "topfootersidebar": [
+          "text-2",
+          "recent-posts-3",
+          "vibe_course_categories-2",
+          "text-5"
+        ],
+        "bottomfootersidebar": [],
+        "MegaMenu": [
+          "nav_menu-2",
+          "nav_menu-4",
+          "nav_menu-3",
+          "text-6"
+        ],
+        "MegaMenu2": []
+      }
+    }
+  },
+  "wplms": {
+    "last_tab": "1",
+    "username": "",
+    "logo": "https://wplms.io/demos/demo14/wp-content/uploads/2019/02/logo_black.png",
+    "mobile_logo": "http://wplms.io/demos/demo10/wp-content/themes/wplms/assets/images/logo.png",
+    "alt_logo": "http://wplms.io/demos/demo10/wp-content/themes/wplms/assets/images/logo.png",
+    "favicon": "http://wplms.io/demos/demo10/wp-content/themes/wplms/assets/images/favicon.png",
+    "header_fix": "0",
+    "course_search": "1",
+    "headertop_content": "Call us Today ! 11223344 / 45678 | info@yourdomain.com",
+    "header_content": "",
+    "title_bg": "https://wplms.io/demos/demo14/wp-content/uploads/2019/03/map-bg.png",
+    "title_color": "#000000",
+    "events_sidebar": "mainsidebar",
+    "default_avatar": "http://wplms.io/demos/demo10/wp-content/themes/wplms/assets/images/avatar.jpg",
+    "hide_wp_admin_bar": "",
+    "wp_admin_access": "",
+    "loop_number": "5",
+    "members_view": "0",
+    "single_member_view": "0",
+    "single_member_controls": "",
+    "members_redirect": "",
+    "activity_view": "0",
+    "student_activity": "",
+    "activity_redirect": "",
+    "group_view": "0",
+    "group_redirect": "",
+    "group_create": "1",
+    "blog_create": "1",
+    "members_activity": "0",
+    "activity_tab": "0",
+    "groups_tab": "0",
+    "forums_tab": "0",
+    "activation_redirect": "",
+    "student_field": "Location",
+    "instructor_field_group": "Instructor",
+    "instructor_field": "Location",
+    "social_field_group": "Social Profiles",
+    "instructor_paypal_field": "",
+    "instructor_about": "About",
+    "enable_ajax_registration_login": "",
+    "custom_registration_page": "",
+    "sync_student_count": "0",
+    "tab_style_course_layout": "0",
+    "disable_contextmenu_course_status": "0",
+    "course_status_template": "fullscreen",
+    "nextunit_access": "0",
+    "unit_media_lock": "0",
+    "assignment_locking": "0",
+    "course_progressbar": "0",
+    "instructor_add_students": "1",
+    "instructor_change_status": "0",
+    "instructor_assign_badges": "1",
+    "instructor_extend_subscription": "1",
+    "instructor_content_privacy": "0",
+    "stats_visibility": "0",
+    "teacher_form": "",
+    "certificate_page": "",
+    "default_course_avatar": "",
+    "course_duration_display_parameter": "86400",
+    "finished_course_access": "",
+    "notes_style": "1",
+    "show_news": "",
+    "level": "",
+    "location": "",
+    "linkage": "0",
+    "redirect_course_cat_directory": "1",
+    "default_course_block_style": "course3",
+    "related_courses": "1",
+    "google_fonts_api_key": "",
+    "google_fonts": [
+      "Lato-900-latin",
+      "Montserrat-regular-latin",
+      "Montserrat-700-latin",
+      "Nunito-regular-latin",
+      "Nunito-600-latin",
+      "Nunito-700-latin",
+      "Nunito Sans-300-latin",
+      "Open Sans-300-latin"
+    ],
+    "top_footer_columns": "col-md-3 col-sm-6",
+    "bottom_footer_columns": "col-md-3 col-sm-6",
+    "footer_logo": "http://wplms.io/demos/demo10/wp-content/themes/wplms/assets/images/logo.png",
+    "copyright": "Template Design © <a title=\"VibeCom\" href=\"http://www.vibethemes.com\">VibeThemes</a>. All rights reserved.",
+    "footerbottom_right": "1",
+    "google_analytics": "<link href=\"https://fonts.googleapis.com/css?family=Dancing+Script\" rel=\"stylesheet\">",
+    "social_icons": {
+      "social": [
+        "facebook",
+        "twitter",
+        "dribbble"
+      ],
+      "url": [
+        "#",
+        "#",
+        "#"
+      ]
+    },
+    "social_icons_type": "",
+    "show_social_tooltip": "1",
+    "tincan": "0",
+    "tincan_endpoint": "0",
+    "tincan_user": "0",
+    "tincan_pass": "0",
+    "page_loader": "pageloader2",
+    "site_lock": "",
+    "site_lock_home_page_url": "",
+    "security_key": "27dZcHNOfXF(",
+    "default_archive": "",
+    "excerpt_length": "20",
+    "page_comments": "",
+    "instructor_commission": "70",
+    "direct_checkout": "3",
+    "thankyou_redirect": "1",
+    "remove_woo_fields": "0",
+    "cache_duration": "0",
+    "google_apikey_contact": "",
+    "contact_ll": "43.730325,7.422155",
+    "contact_style": "SATELLITE",
+    "map_zoom": "17",
+    "error404": "",
+    "xmlrpc": "",
+    "disable_versioning": "",
+    "wp_login_screen": "",
+    "credits": "VibeThemes"
+  },
+  "vibe_course_permalinks": {
+    "course_base": "/course",
+    "quiz_base": "/quiz",
+    "unit_base": "/unit",
+    "curriculum_slug": "/curriculum",
+    "members_slug": "/members",
+    "activity_slug": "/activity",
+    "admin_slug": "/admin",
+    "submissions_slug": "/submissions",
+    "stats_slug": "/stats",
+    "course_category_base": "",
+    "events_slug": "/events",
+    "drive_slug": "/drive"
+  },
+  "widget_wplms_course_codes": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_activity": {
+    "2": {
+      "title": "Student Activity",
+      "number": "5",
+      "activity": "1",
+      "messages": "1",
+      "friends": "1",
+      "width": "col-md-4 col-sm-6"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_course_progress": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_contact_users": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_text": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_tasks": {
+    "2": {
+      "title": "To do List",
+      "date": "1",
+      "priority": "1",
+      "width": "col-md-4 col-sm-6"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_student_stats": {
+    "2": {
+      "title": "Student Statistics",
+      "width": "col-md-12",
+      "course": "1",
+      "quiz": "1",
+      "assignments": "1",
+      "course_chart": "Line",
+      "quiz_chart": "Line",
+      "assignment_chart": "Line"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_stats": {
+    "2": {
+      "title": "Courses",
+      "stats": "courses",
+      "width": "col-md-3 col-sm-6"
+    },
+    "3": {
+      "title": "Quizes",
+      "stats": "quizes",
+      "width": "col-md-3 col-sm-6"
+    },
+    "4": {
+      "title": "Units.",
+      "stats": "units",
+      "width": "col-md-3 col-sm-6"
+    },
+    "5": {
+      "title": "Assignments",
+      "stats": "assignments",
+      "width": "col-md-6 col-sm-12"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_notes_discussion": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_mymodules": {
+    "2": {
+      "title": "My Modules",
+      "course": "1",
+      "quiz": "1",
+      "assignment": "1",
+      "unit": "1",
+      "download": "1",
+      "number": "5",
+      "width": "col-md-4 col-sm-6"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_news": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_line_break": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_instructor_dash_stats": {
+    "2": {
+      "title": "Earnings",
+      "stats": "woo_commission",
+      "width": "col-md-3 col-sm-6"
+    },
+    "3": {
+      "title": "Courses",
+      "stats": "courses",
+      "width": "col-md-3 col-sm-6"
+    },
+    "4": {
+      "title": "Quiz",
+      "stats": "quizes",
+      "width": "col-md-3 col-sm-6"
+    },
+    "5": {
+      "title": "Questions",
+      "stats": "questions",
+      "width": "col-md-3 col-sm-6"
+    },
+    "6": {
+      "title": "Units",
+      "stats": "units",
+      "width": "col-md-3 col-sm-6"
+    },
+    "7": {
+      "title": "Units",
+      "stats": "units",
+      "width": "col-md-3 col-sm-6"
+    },
+    "8": {
+      "title": "Badges",
+      "stats": "badges",
+      "width": "col-md-3 col-sm-6"
+    },
+    "9": {
+      "title": "Certificates",
+      "stats": "certificates",
+      "width": "col-md-3 col-sm-6"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_instructor_stats": {
+    "2": {
+      "title": "Instructor Statistics",
+      "width": "col-md-12",
+      "range": "10",
+      "max": "10"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_instructor_commission_stats": {
+    "2": {
+      "title": "Commissions",
+      "width": "col-md-12"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_announcement": {
+    "2": {
+      "title": "Announcement",
+      "width": "col-md-6 col-sm-12"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_instructing_modules": {
+    "2": {
+      "title": "Instructing Modules",
+      "course": "1",
+      "quiz": "1",
+      "assignment": "1",
+      "unit": "1",
+      "number": "5",
+      "width": "col-md-6 col-sm-12"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_cal": {
+    "_multiwidget": 1
+  },
+  "vibe_customizer": {
+    "header_style": "transparent",
+    "login_style": "pop_login",
+    "course_layout": "c4",
+    "header_top_bg": "#ffffff",
+    "header_top_color": "#444444",
+    "login_light": "#ffffff",
+    "login_dark": "#ef403d",
+    "login_light_text": "#666666",
+    "login_dark_text": "#444444",
+    "nav_bg": "#ffffff",
+    "header_bg": "#fdfdfd",
+    "nav_color": "#444444",
+    "header_color": "#444444",
+    "theme_skin": "minimal",
+    "primary_bg": "#ef403d",
+    "primary_color": "#ffffff",
+    "directory_layout": "d2",
+    "body_bg": "#f8fafc",
+    "single_dark_color": "#f8fafc",
+    "single_dark_text": "#444444",
+    "single_light_text": "#808080",
+    "single_light_color": "#f8fafc",
+    "profile_layout": "p4",
+    "footer_style": "single",
+    "custom_css": ".slick-slide{\nwidth:100px !important;\n}\n\n.single-course.c5 .course_header{background:#ff4367;}.single-course.c5 .course_header #item-header div#item-header-content h1{color:#fff;}\n.footertop {\n    display: grid;\n    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));\n}\na#save_course_button {\n    background: #ee403d;\n    color: #fff;\n}\n#item-admins h5 a {\n    color: #ee403d;\n}\n.field_wrapper .button.insert-media.add_media {\n    color: #ee403d;\n}\na.thickbox.button{ color: #ee403d !important;}\n.course_block_bottom .bp_blank_stars {\n    margin: 0;\n}header.sleek nav>ul>li:first-child > a { padding: 10px 20px; margin: 20px; border: 1px solid rgba(0,0,0,0.1); border-radius: 5px; }\n\n.footertop .col-md-3 {\n    width: 100% !important;\n}.footertop .col-md-3:first-child{grid-column:1/2;}.widget .course_cat_nav{\nbackground:#414;\n}.course_filters {\n    bordeR: 1px solid rgba(0,0,0,0.1);\n}#title a.button:not(.course_button) {\n    background: #fff;\n    color: #ff4367;\n}\nnav .menu li.menu-item-has-children:hover>a:before{\ndisplay:none;\n}\n\n#object-nav.item-list-tabs .current a{\n    border-radius: 0 0 5px 5px !important;\nbox-shadow: inset 2px -2px 5px rgba(0,0,0,0.2);\n}#buddypress .item-list-tabs#subnav,#buddypress .dir-list{padding:30px 0;}\n\n\n.minimal .pusher,.minimal .pusher #title,#buddypress .dir-list{background:#fdfdfd !important;}#buddypress .item-list-tabs#subnav{border:none;}\n.item-list-tabs {text-align:center;} .item-list-tabs > ul {\n    display: inline-block;\n}.minimal header{border-bottom:none !important;}\n.minimal .widget .course_cat_nav li:not(.current-cat) a{background:#fff !important;}\n.grid_list_wrapper{display:none;}\n.minimal #buddypress div.item-list-tabs{border:none;}\n.minimal #buddypress div.item-list-tabs ul{background:#fff;border-radius:5px;overflow:hidden;}\n.minimal #buddypress div.item-list-tabs ul .selected > a{background:#ef403d !important;color:#fff !important;}\n.minimal #buddypress div.item-list-tabs#subnav > ul{background:transparent !important;}#buddypress #course-list.item-list {\ndisplay: grid !important;padding-top:25px;border-top:none;\ngrid-template-columns: repeat(auto-fit,minmax(240px,1fr));\ngrid-gap: 30px;\n}#buddypress #course-list.item-list.grid >li{\nwidth:100% !important;\npadding: 0;\n}#buddypress #course-list.item-list li{border:none;padding:0;}nav{float:none;}nav > ul{width:calc(100% - 150px);display:inline-block;}nav>ul.menu >li{float:right;}nav>ul.menu >li:first-child{float:left;}\nnav>ul.menu >li:last-child{    position: absolute;\n    right: 0;  -webkit-transition: width 2s; \n  transition: width 2s;}\n\n\n\n.home #title{display:none;}\n.begin_quiz:hover{color:#fff !Important;}\n.padder.content, .page .content, .single .content, .unit_content {background: #fdfdfd;}\n.home-logo-banner ul li {float: left;list-style: none;}\n.home-banner-title{\nfont-size: 42px;\nmax-width: 580px;\npadding-top: 40px;\ncolor: #5a5a5a;\nline-height: 1.2;\nletter-spacing: -1.1px;\nfont-family: \"Nunito\";\n}\n\n.home-banner-subtitle{\nmargin-top: 42px;\nfont-size: 16px;\nmax-width: 494px;\nline-height: 1.77;\ncolor: grey;\nfont-family: \"Nunito\";\n}\n\n.banner-video-block{\ndisplay: -webkit-box;\ndisplay: -ms-flexbox;\ndisplay: flex;\n-webkit-box-align: center;\n-ms-flex-align: center;\nalign-items: center;\ncursor: pointer;\nwidth: -webkit-fit-content;\nwidth: -moz-fit-content;\nwidth: fit-content;\nmargin-top:48px;\n}\n.banner-video-text{display:block;}\n.banner-video-subtext{\nfont-weight: 700;\ncolor: #5a5a5a;\ndisplay:block;\n}\n.banner-video{width: 84px;height: 84px;}\n#logo-banner{position:absolute;top:6.5%;}\n\n.academics{border-right: 2px solid #5a5a5a;}\n.academics p{\nwidth: 94px;\nborder-right: 1px solid #979797;\nfont-size: 13px;\nline-height: 1.43;\n    color: #5a5a5a;}\n.home-logo-banner ul li a img {\n    width: 90px;\n-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */\n  filter: grayscale(100%);\nopacity: 0.7;\nmargin-left: 10px;\n}\n.home-logo-banner ul li a img:hover {\n-webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */\n  filter: grayscale(0%);\n}\n.home-logo-banner{ margin-top: -10px;margin-left:-20px;}\n#courseblock .vibe_filterable{\n    background: #fff; \n    max-width: 100%;\n    border-radius: 8px;\n    -webkit-box-shadow: 0 13px 38px 0 rgba(45,31,80,.27);\n    box-shadow: 0 13px 38px 0 rgba(45,31,80,.27);\n    background-color: #fff;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    margin: 0 auto;\n    padding: 4px;\n    height: auto;\n    -webkit-transition: visibility .3s,opacity .3s ease;\n    transition: visibility .3s,opacity .3s ease;\n        left: 50%;\n    position: relative;\n    transform: translate(-50%,0);\n}\n\n#courseblock .vibe_filterable li.active a{\nfont-weight: 700;\n    color: #fff;\n    border-radius: 8px;\n    background-image: linear-gradient(120deg,#f7415f,#fe734e);\nborder:none;\npadding: 15px 28px;\n}\n .vibe_filterable{margin-bottom:70px !important;}\n.vibe_filterable li {margin: 0;}\n.vibe_filterable li a {\nbackground-color: transparent;\nborder: 0;\npadding: 15px 28px;\nborder-radius: 8px;\nfont-size: 16px;\nfont-weight: 700;\ncolor: #acacac;\n}\n .vibe_filterable li.active a,  .vibe_filterable li a, .vibe_filterable li:hover, .vibe_filterable li a:hover{\nbackground:none;\n}\n.counter .numscroller{\n    font-size: 36px;\n    font-weight: 700;\n    letter-spacing: normal;\n    color: #ef403d;\n}\n.counter .elementor-shortcode{\n    font-size: 18px;\n    letter-spacing: normal;\n    color: #4c4c4c;\n    margin-top: 18px;\n    font-weight:600;\n}\n.subscribe h4{\n    font-size: 18px;\n    font-weight: 600;\n    font-stretch: normal;\n    line-height: 1.39;\n    letter-spacing: normal;\n    color: hsla(0,0%,100%,.6);\n}\n.subscribe div{\n    font-size: 32px;\n    font-weight: 300;\n    font-stretch: normal;\n    letter-spacing: normal;\n    color: #fff;\n}\n\n.block11 h3{\n    font-size: 25px;\n    font-weight: 600;\n    line-height: 1.25;\n    letter-spacing: normal;\n    color: #ef403d;\n    display: inline-block;\n    position: relative;\n/*font-family: 'Dancing Script', cursive;*/\n}\n\n.block11 h3:before {\n    right: 100%;\n    margin-right: 12px;\n}\n.block11 h3:after {\n    left: 100%;\n    margin-left: 12px;\n}\n\n.block11 div{\n    font-size: 18px;\n    color: #5a5a5a;\n    width: 440px;\n    margin: 0 auto;\nmargin-top:18px;\n}\n.block11 img{\nwidth: 80%;\n    margin-top: 35px;\n}\n.block1, .block2{\npadding-bottom:40px;\n}\n.block2{\n    border-left: 1px solid gainsboro;\n}\n.block3{\n    border-top: 1px solid gainsboro;\npadding-top:40px;\n}\n.block4{\n border-top: 1px solid gainsboro;\n    border-left: 1px solid gainsboro;\npadding-top:40px;\n}\n.block-feature .elementor-element-populated {\n    padding: 0px !important;\n}\n.testimonial14 .testimonial-content{\n    display: flex;\n    flex-direction: column-reverse;\n    width: 555px;\n    height: 290px;\n    position: relative;\n    padding: 24px 24px 35px;\n    border-radius: 3px;\n    background-color: #fff;\n    min-height: 250px;\n    place-content: flex-end;\n}\n\n.testimonial14 .testimonial-content img{\n    width: 48px;\n    height: 48px;\n    border-radius: 50%;\n    overflow: hidden;\n}\n.testimonial14 .testimonial-content h4{\n    line-height: 24px;\n    font-weight: 600;\n    color: rgba(21,28,42,.87);\n    text-transform: capitalize;\nmargin-top:0;\n}\n.testimonial14 .testimonial-content small{\n    line-height: 14px;\n    color: #475465;}\n.testimonial14 .testimonial-content p{\n    line-height: 22px;\n    color: #475465;\n    width: 92%;\nmargin-top:40px;}\n.testimonial14 \n.v_module.custom_post_carousel .vibe_carousel.noheading .flex-direction-nav{\n    bottom: 0;\n    right: 0;\n    width: auto;\n    left: auto;\n}\n\n.course_category img{\nwidth:45% !important;\nmargin:0 auto;\n}\n.course_category .term_name{    \ndisplay: block !important;\n    position: relative !important;\n    padding-top: 42px;\n    font-size: 16px;\ntext-align:center;\ntransition: 0.3s;}\n\n.course_category li strong.term_name:after {\n    content: \"Business\";\n    color: #00000026;\n    position: absolute;\n    left: 50%;\n    transform: translate(-50%,0);\n    font-size: 31px;\n    font-family: 'Dancing Script', cursive;\n    z-index: -1;\n    top: 29%;\nletter-spacing:2px;\n}\n.course_category li:nth-child(2) strong.term_name:after {\n    content: \"Marketing\";\n}\n.course_category li:nth-child(3) strong.term_name:after {\n    content: \"Photography\";\n}\n.course_category li:nth-child(4) strong.term_name:after {\n    content: \"Research\";\n}\n.course_category li:nth-child(5) strong.term_name:after {\n    content: \"Social\";\n}\n.course_category li:nth-child(6) strong.term_name:after {\n    content: \"Technology\";\n}\n.term_block:hover > strong.term_name:after{\ncolor:#9e3a30;\n}\n.term_block:hover span{\n visibility: hidden;\n  opacity: 0;\n  transition: visibility 0s, opacity 2s linear;\n}\n.recently_view .vibe_filterable{\ndisplay:none;\n}\nul.sub-menu{\n    width: 100%;\n    height: auto;\n    min-width: 240px;\n    padding: 12px 0;\n    border-radius: 4px;\n    background: #fff;\n    -webkit-box-shadow: 0 2px 4px 0 rgba(0,0,0,.27);\n    box-shadow: 0 2px 4px 0 rgba(0,0,0,.27);\n}\n.minimal nav .sub-menu>li {\n    border-bottom:none;\n}\n.minimal nav .sub-menu>li a{\n    font-weight:400;\n    text-transform:capitalize;\n}\n .minimal nav .sub-menu>li:hover>a{\nbackground:#f8fafc;\n}\n.minimal nav .sub-menu>li:hover>a{\ncolor:#444 !important;\n}\nfooter h2{color:#fff;}\n.home.minimal .pusher .button{\nborder-color:#fff;\ncolor:#fff;\n}\n.home .minimal .pusher input[type=submit]{\nborder-color:#fff;\ncolor:#fff;\n}\n.minimal footer input[type=text]::placeholder{\ncolor:#fff;    \n}\n.minimal footer .form_field, .minimal footer input[type=text]{\nborder: 1px solid rgba(175, 175, 175, 0.49);}\n\n\n.home-page #content ,  .home-page .no.content{\npadding-bottom:0 !important;\nmargin-bottom:0 !important;\n}\n\n.minimal #footerbottom {\n    border-top: 1px solid rgba(107, 107, 107, 0.27);\n}\nfooter{\npadding-top:60px;\npadding-bottom:60px;}\n\n.wp-core-ui .quicktags-toolbar input.button.button-small {\n    background: #ed403d;\n}\n\n/* recently viewed card css starts */\n\n.block.generic .block_media img {\n    display: none;\n}\n.block.generic .block_content {\n    background: none !important;\n    top:0;\n}\n.block.generic .block_content .block_title {\n        font-size: 1.5rem;\n    text-align: center;\nmargin-top:25px;\n}\n.block.generic .block_content .block_title a{\n      color:#000;\n}\n.block.generic .block_content .block_title a:before{\n     display:none;\n}\n\n.block.generic{\n height: 220px;\n    width:auto;\nbackground: #ffffffb8;\n    border-color: transparent !important;\n    box-shadow: 0 16px 38px -12px rgba(0, 0, 0, 0.56), 0 4px 25px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);\n    border-radius: 12px;\n}\n.block.generic .block_content .generic_category {\n    text-align: center;\n    width: 100%;\n    display: block;\n}\n.block.generic .block_content .generic_category a {color: #000;}\n.recently_view h3 span{    color: #1e1e1e;\n    font-size: 32px;\n    font-weight: 300;\n    text-transform: initial;\n        font-family: \"Nunito\";}\n.recently_view h3{\nmargin: 60px 0 60px 0;\nborder-bottom:none !important;}\n\n.explore_more_btn .button{\nmargin-top: 25px;\n    background-color: #fd6852 !important;\n    color: #fff;\n    border: none !important;\n    padding: 11px 16px;\n}\n\nfooter{\nbackground: url(https://wplms.io/demos/demo14/wp-content/uploads/2019/02/photo-1525771576046-15ba04b2693b.jpg);\nbackground-attachment:fixed;\n}\nfooter:before {\n    content: \"\";\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    background: #323846e8;\n}\n.footertop {\nfont-size:13px !important;\n}\n\n.member_block .member_block5 {\n    width: auto !important;\n    height: auto;\n}\n.elementor-button-wrapper{\nline-height:78px;\n}\n\nul.socialicons li a.facebook {\n    background-color: #3b5998;\n}\nul.socialicons li a.twitter {\n    background-color: #00aced;\n}\nul.socialicons li a.google.plus {\n    background-color: #dd4b39;\n}\nul.socialicons li a.pinterest {\n    background-color: #bb0000;\n}\nul.socialicons li a{\nwidth: 30px;\n    height: 30px;\n    line-height: 30px;\n    border-radius: 50%;\n    text-align: center;\n    font-size: 14px;\npadding: 5px 9px;\n\n}\nul.socialicons li a i{\ncolor:#fff;\n}\n\n.member_block .member_block5 ul.socialicons li{\nmargin:25px 8px 4px 8px !important;\n    list-style: none;\n    float: left;\n    padding-bottom: 0;\n    display: inline-block;\n    padding: 0;\n}\nul.socialicons li a.facebook {\n    padding: 5px 12px;\n}\nul.socialicons li a.dribbble {\n    background-color:#f753b4;\n}\n\n.member_block .member_info a{\n    font-size: 16px !important;\n    font-weight: 700 !important;\n}\n\n.appimg, .appimg2{\nwidth:40%;\ndisplay:inline-block;\nmargin-right:10px;\nmargin-top:20px;\n}\n.footerwidget>ul li {\n    padding: 10px 0;\n}\n.button:hover{\nbackground: #ef403d !important;\n}\nfooter input[type=text] {\n    font-size: 13px;\ncolor:#ececec !important;\n}\nfooter input[type=text]::-webkit-input-placeholder{\n   color:#fff;\n}\nfooter{\n    border-top: none !important;\n}\n.course_block_bottom span.amount{\ncolor:#fff;\n}\n\n.explore_more_btn .button{\nfont-size:13px;\n}\n.minimal .pusher h3.heading, .minimal .pusher h4.widget_title {\n    border-bottom: none;\n}\n.blogpost .cats {\n    border-top: none;\n}\n.elementor-1462 .elementor-element.elementor-element-6612d1a .elementor-image-box-wrapper .elementor-image-box-img, .elementor-1462 .elementor-element.elementor-element-445f2fe .elementor-image-box-wrapper .elementor-image-box-img {\n    width: auto;\n}\n.minimal #buddypress div.item-list-tabs {\n    background: #f9f9f9;\n    padding: 10px 0;\n}\n\n/* PLAY VIDEO STARTS*/\n.video-play-button {\n  position: absolute;\n  z-index: 10;\n  top: 90%;\n  left: 7%;\n  transform: translateX(-50%) translateY(-50%);\n  box-sizing: content-box;\n  display: block;\n  width: 16px;\n  height: 20px;\n  /* background: #fa183d; */\n  border-radius: 50%;\n  padding: 18px 20px 18px 28px;\n}\n\n.video-play-button:before {\n  content: \"\";\n  position: absolute;\n  z-index: 0;\n  left: 50%;\n  top: 50%;\n  transform: translateX(-50%) translateY(-50%);\n  display: block;\n  width: 50px;\n  height: 50px;\n  background: #ba1f24;\n  border-radius: 50%;\n  animation: pulse-border 1500ms ease-out infinite;\n}\n\n.video-play-button:after {\n  content: \"\";\n  position: absolute;\n  z-index: 1;\n  left: 50%;\n  top: 50%;\n  transform: translateX(-50%) translateY(-50%);\n  display: block;\n  width: 50px;\n  height: 50px;\n  background: #fa183d;\n  border-radius: 50%;\n  transition: all 200ms;\n}\n\n.video-play-button:hover:after {\n  background-color: darken(#fa183d, 10%);\n}\n\n.video-play-button img {\n  position: relative;\n  z-index: 3;\n  max-width: 100%;\n  width: auto;\n  height: auto;\n}\n\n.video-play-button span {\n  display: block;\n  position: relative;\n  z-index: 3;\n  width: 0;\n  height: 0;\n  border-left: 12px solid #fff;\n\tborder-top: 10px solid transparent;\n\tborder-bottom: 10px solid transparent;\n}\n\n@keyframes pulse-border {\n  0% {\n    transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1);\n    opacity: 1;\n  }\n  100% {\n    transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1.5);\n    opacity: 0;\n  }\n}\n\n.video-overlay {\n  position: fixed;\n  z-index: -1;\n  top: auto;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  background: rgba(0,0,0,0.80);\n  opacity: 0;\n  transition: all ease 500ms;\n}\n\n.video-overlay.open {\n  position: fixed;\n  z-index: 1000;\n  opacity: 1;\n}\n\n.video-overlay-close {\n  position: absolute;\n  z-index: 1000;\n  top: 15px;\n  right: 20px;\n  font-size: 36px;\n  line-height: 1;\n  font-weight: 400;\n  color: #fff;\n  text-decoration: none;\n  cursor: pointer;\n  transition: all 200ms;\n}\n\n.video-overlay-close:hover {\n  color: #fa183d;\n}\n\n.video-overlay iframe {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translateX(-50%) translateY(-50%);\n  /* width: 90%; */\n  /* height: auto; */\n  box-shadow: 0 0 15px rgba(0,0,0,0.75);\n}\n\n\n/*play video ends*/\n\n\n.about-left h2 span{\ncolor:#ee2c3c;\nfont-size:32px;\nfont-weight:700;\n}\n.about-left h2{\npadding-bottom:35px;\n}\n\n.about-box{\nwidth: 310px;\n    height: auto;\n    border-radius: 4px;\n    -webkit-box-shadow: 0 6px 22px 0 rgba(0,0,0,.08);\n    box-shadow: 0 6px 22px 0 rgba(0,0,0,.08);\n    margin: 0 50px;\n}\n\n.about-box h3{\ncolor:#5d5d5d !important;\nfont-size:16px;\nfont-weight:600;\n    padding-left: 20px;\n}\n.about-box .elementor-image-box-description{\n    padding: 10px 20px 30px 20px;\n}\n.about-box .elementor-image-box-content {\n    text-align: left;\n}\n\n\n\n/*ExtraM Css starts*/\n.block.course8 .block_content .block_title {\n   border-bottom: none!important;\n}\n\n.block.course8 .more {\n   text-align: center;\n   position: relative;\n   z-index: 2;\n\n}\n\n.block.course8 .more_btn{\n    color: rgb(255, 255, 255);\n   /*background: rgba(0, 0, 0.8);*/\n   border-radius: 20px;\n   padding: 5px 10px;\n}\n\n.block.course8 .more:after {\n   content: '';\n   position: absolute;\n   left: 0;\n   top: 50%;\n   width: 100%;\n   height: 1px;\n   background: rgba(0, 0, 0, 0.4);\n   z-index: -1;\n}\n\n.block.course8 .block_content .cat_btn{\n   position: relative;font-size:12px;\n   padding: 5px 10px 5px 25px;\n   /*background: rgba(0, 0, 0, 0.8);*/\n   border-radius: 18px;\n   color: rgb(255, 255, 255);\n   margin: 0 2px 0 0;\n}\n\n.block.course8 .block_content .cat_btn:before {\n   content:\"\\f02b\";font-family:'fontawesome';\n   position:absolute;\n   left:10px;top:4px;\n}\n.blog_card.block {\n   display: -webkit-box;\n   display: -ms-flexbox;\n   display: flex;\n   height: 256px;\n   border-radius: 8px;\n   -webkit-box-shadow: 0 7px 31px 0 rgba(0,0,0,.12);\n   box-shadow: 0 7px 31px 0 rgba(0,0,0,.12);\n   background-color: #fff;\n   }\n.blog_card .block_media{\n   width:35%;\nborder-radius: 5px 0 0 5px; overflow: hidden;\n}\n.blog_card .block_media img{\n   height:100%;\nobject-fit:cover;\n}\n.blog_card .block_content{\n   padding:30px 42px;\n   -webkit-box-flex: 1;\n   -ms-flex: 1;\n   flex: 1;\n   position: relative;\n   width:65%;\n}\n.blog_card .block_title a{\n   font-size: 20px;\n   font-weight: 600;\n   color: #5a5a5a;\n   text-decoration: none;\n   text-transform: capitalize;\n}\n\n.blog_card .block_desc{\n   margin-top: 12px;\n   font-size: 16px;\n   color: #475465;\n   line-height: 1.5;\n}\n\n.member_block5{\n   position: relative;\n   -webkit-box-orient: vertical;\n   -ms-flex-direction: column;\n   flex-direction: column;\n   -webkit-box-pack: justify;\n   -ms-flex-pack: justify;\n   justify-content: space-between;\n   -webkit-box-align: center;\n   -ms-flex-align: center;\n   align-items: center;\n   border-radius: 6px;\n   width: 240px!important;\n   height: 140px;\n   padding: 15px;\n   margin-right: 54px;\n   margin-top: 60px;\n   margin-bottom: 12px;\n   background-color: #fff;\n   -webkit-box-shadow: 2px 4px 8px 0 rgba(46,61,73,.11);\n   box-shadow: 2px 4px 8px 0 rgba(46,61,73,.11);\n}\n.member_block5 .member_avatar{\n   position: relative;\n   left: 50%;\n   transform: translate(-50%,0);\n   background-color: #fff;\n   border-radius: 50%;\n   overflow: hidden;\n   width: 75px;\n   height: 75px;\n   margin-top: -48px;\n   margin-bottom: 12px;\n}\n\n.member_block5 .member_avatar img{\n   border-radius: 50%;\n   width: 100%;\n}\n.member_block5 .member_info{\n   text-align: center;\n}\n\n.member_block5 .member_info a{\n   font-size: 14px;\n   color: #101010;\n   font-weight: 400;\n   margin-bottom: 12px;\n   text-decoration: none;\n   text-align: center;\n   text-transform: capitalize;\n}\n.member_block5 .member_info ul.socialicons {\n   float: none;\n}\n\n.minimal .pusher h3.heading span:before, .minimal .pusher h4.widget_title span:before{\ndisplay:none;\n}\n\n.course9 {\n  margin-bottom: 30px;\n}\n\n.course9 .block.courseitem.course6 .block_media {\n  position: relative;\n  }\n.course9 .block_content {\n box-sizing: border-box;\n    border: none;\n    display: inline-block;\n    padding-top: 20px;\n    border-bottom-left-radius: 2px;\n    border-bottom-right-radius: 2px;\n    position: relative;\n    line-height: 1.4;\n    margin-top: -10px;\n    z-index: 0;\n    padding-bottom: 20px;\n}\n\n.course9:hover .bottom_desc {\n    height: auto;\n}\n\n.course9:hover .bottom_desc>div {\n    transform: translateY(0);\n}\n.course9:hover .bottom_desc>div.course_price {\n    justify-self: flex-end;\n}\n.course9 .block_content > .block_div_course9:after {\n    content: '';\n    background-image: linear-gradient(100deg, #f7415f 0%, #fe734e 100%);\n    height: 4px;\n    bottom: 0;\n    width: 100%;\n    position: absolute;\n}\n\n.course9:hover .bottom_desc {transform:translateY(0);}\n\n.course9 .block_desc{\nmargin-top: 18px;\n    font-size: 15px;\n    line-height: 1.6;\n    color: #475465;\npadding-left:20px;\npadding-right:20px;\n}\n\n.block_div_course9{\nbackground: #fff;\n    margin: -20px 0;\n    padding: 20px 0px;\n    position: relative;\n    z-index: 9;\n}\n\n.course9 .block_title a{\n  font-size: 22px;\n  line-height: 1.14;\n  color: #101010;\n  text-decoration: none;\n}\n.course9 .block_title{\nmargin-top:10px;\npadding-left:20px;\npadding-right:20px;}\n\n.course9 .bottom_desc{\n display: grid;\n    grid-template-columns: 1fr 1fr;\n    align-items: center;\n    grid-gap: 20px;\n    transition: all 0.3s;\n    transform: translateY(-120px);\n    background-image: linear-gradient(100deg, #f7415f 0%, #fe734e 100%);\n    margin-bottom: -30px;\n        padding: 28px 20px 10px 20px;\n    margin-top: 0px;\n    z-index: 1;\n    position: relative;\nopacity: 1;\n    overflow: hidden;\n    width: 100%;\n    line-height: 1.43;\n    color: #475465;\n}\n\n.vibe_filterable li a:hover{\ncolor:#e4e4e4;\n}\n\n.course9 .bottom_desc .course_block_bottom a{\n  display:block;\nfont-size:13px;\ncolor: #fff;\n}\n.course9 .bottom_desc .course_price .subs{\ncolor: #fff;\n}\n\n.course9 .bottom_desc strong{\n    margin-right: 15px;\nmargin-top:10px;\n    color: #fff;\n}\n.bp_blank_stars {\n    overflow: initial;\nmargin-top:10px;\n}\n.block.generic_card .block_media img {\n  display: none;\n}\n.block.generic_card .block_content {\n  position: relative;\n   bottom: 0;\n   left: 0;\n   width: 100%;\n   padding: 15px 30px;\n   border-radius: 0 0 8px 8px;\n   -webkit-transform: translateY(0);\n   transform: translateY(0);\n   -webkit-transition: all .2s ease-in-out;\n   transition: all .2s ease-in-out;\n}\n.block.generic_card .block_content .block_title {\n      font-size: 1.5rem;\n  text-align: center;\nmargin-top:25px;\n}\n.block.generic_card .block_content .block_title a{\n    color:#000;\n}\n.block.generic_card .block_content .block_title a:before{\n   display:none;\n}\n\n.block.generic_card{\nheight: 220px;\n  width:auto;\nbackground: #ffffffb8;\n  border-color: transparent !important;\n  box-shadow: 0 16px 38px -12px rgba(0, 0, 0, 0.56), 0 4px 25px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);\n  border-radius: 12px;\n}\n.block.generic_card .block_content .generic_category {\n  text-align: center;\n  width: 100%;\n  display: block;\n    margin-top: 5px;\n}\n.block.generic_card .block_content .generic_category a {color: #000;margin-top: 15px;}\n\n.block.generic_card .block_content .explore_more_btn { text-align: center;}\n\n#vibe_bp_login a:hover{\n    color: #000 !important;\n}\n.minimal #buddypress div.item-list-tabs ul {\n    width: 100%;\n}\n#object-nav.item-list-tabs .current a {\n    border-radius:none;\n    box-shadow: inset 1px 4px 5px rgba(0, 0, 0, 0.14);\n}\n.home.minimal .pusher .button{color:#fff;}\n.sleek .topmenu>li {\nline-height: 32px;\n}\n.sleek .topmenu>li a{\ncolor:#fff;\n}\n\n\n@media(max-width:1170px){\n    ul.vibe_filterable {\n        display: grid !important;\n        grid-template-columns: repeat(auto-fill,minmax(150px,1fr));\n        width: 100%;\n    }\n.course_category ul.slides {\n    display: grid !important;\n    grid-template-columns: repeat(auto-fill,minmax(200px,1fr));\n    width: 100%;\n}\n}\n\n @media screen and ( max-width:768px){\n.academics {\n    border-right: none;\n}\n.home-logo-banner {\n    margin-left: 35px;\n}\n.academics p {\n    margin-left: 25px;\n}\n#logo-banner {\n    top: 4.5%;\n}\n .banner-box{\n    height: 430px;\n}\n.course_category .flexslider .slides>li {\n    width: 128px !important;\n}\n .vibe_filterable li a {\n    padding: 15px 15px;\n}\n.feature-box{width:100% !important;}\n.block3 {\n    border-top: none;\n}\n.block4 {\n    border-top: none;\n    border-left: none;\n}\n.testimonial14 .testimonial-content {\n    width: 354px;\n}\n.testimonial14 .v_module.custom_post_carousel .vibe_carousel.noheading .flex-direction-nav {\n    bottom: 80px;\n    right: 30px;\n}\n.member_block5 {\n    margin-right: 10px;\n}\n#content{\n    padding-top: 75px !important;\n}\n.banner-video-block {\n    margin-top: 0;\n}\n.home-banner-subtitle {\n    margin-top: 18px;\n}\n.course9 .bottom_desc {\n    transform: translateY(0px);\n}\n}\n\n@media screen and ( max-width:705px){\n.course_category .flexslider .slides>li {\n    width: 150px !important;\n}\n}\n @media screen and (max-width:414px){\n.selectimg{width:20%;}\n.sleek .topmenu>li {\nline-height: 32px;\n}\n.sleek .topmenu>li a{\ncolor:#fff;\n}\n.logged-out #vibe_bp_login .popup_login #vbp-login-form .inside_login_form .inside+ul li input[type=submit] {  \nbackground: #f73737 !important;\nborder-color: #f73737 !important;\n}\n.home-banner-subtitle {\n    margin-top: 18px;\n    font-size: 11px;\n    max-width: 252px;\n}\n.home-banner-title {\n    font-size: 20px;\n}\n\n.video-play-button {\n    top: 82%;\n    left: 13%;\n}\n.ladyimage {\n    display: none;\n}\n#logo-banner {\n    top: 3%;\n}\n.academics {\n    display: none;\n}\n.home-logo-banner {\n    margin-left: 0px;\n}\n.home-logo-banner li{\ntext-align: center;\n    margin-bottom: 15px;\n    width: 32%;\n}\n.recently_view .filterableitems_container .filteritem, #courseblock .filterableitems_container .filteritem  {\n    max-width: 100% !important;\n}\n.recently_view .filterableitems_container {\n     margin-right: 0px !important;\n}\n.course_category .flexslider .slides>li {\n    width: 132px !important;\n}\n#courseblock .filterableitems_container {\n    margin-right: 0px !important;\n}\n.block11 div {\n    width: 300px;\n}\n.member_grid{display:block;}\n.member_grid li{margin-bottom:60px;}\n.member_grid li:first-child{margin-top:60px;}\n\n.blog_card .block_content {\n    padding:  12px;\n}\n.recently_view h3 {\n    text-align: center;\n}\n.minimal header.sleek.transparent {\n    background: #fc6852;\n}\n.no.content{margin-top:0;}\n.home-banner-title {\n    padding-top: 0px;\n}\n.pagesidebar {\n    top: 46px;\n}\n#explore-btn{width:100%;}\n\n.banner-video-block {\n    margin-top: 30px;\n}\n.video-play-button {\n    top: 120%;\n}\n#trigger .lines, #trigger .lines:before, #trigger .lines:after {\n    background: #ffffff !important;\n}\n.recently_view h3 {\n    margin-bottom: 10px;\n}\n}\n\n\n\n/* RTL CSS STARTS */\n\n.rtl .video-play-button{\nright:-7% !important;\ntop:87% !important; \npadding:18px 20px 18px 20px !important;\n}\n.rtl .academics p{\nborder-right:0 !important;\n}\n\n.rtl .home-logo-banner{\nmargin-top:-10px !important;\nmargin-left:-20px !important;\nfloat:right !important;\n}\n.rtl .academics{\nborder-right:0 !important;\nborder-left-style: solid;\n  border-left-width: 2px;\nborder-left-color: #5a5a5a;\n}\n.rtl .block2{\nborder-right-style: solid;\n  border-right-width: 1px;\nborder-right-color: gainsboro;\nborder-left: 0;\n}\n.rtl .block4{border-left:0 !important; \nborder-right-style: solid;\n  border-right-width: 1px;\nborder-right-color: gainsboro;}\n.rtl .testimonial14 .v_module.custom_post_carousel .vibe_carousel.noheading .flex-direction-nav{right:60px !important;}\n.rtl #explore-btn{float:left !important;}\n.rtl .member_block5 .member_avatar{left:0 !important;transform:translate(0%,0) !important;margin:0 auto !important;}\n.rtl .course9 .bottom_desc strong {\n    margin-right: 0;}\n\n/* RTL CSS ENDS */",
+    "group_layout": "g4",
+    "footer_bottom_bg": "#323846",
+    "footer_bg": "#323846",
+    "content_bg": "#fdfdfd",
+    "footer_color": "#ffffff",
+    "footer_heading_color": "#ffffff",
+    "footer_bottom_color": "#ffffff",
+    "widget_title_color": "#444444",
+    "content_color": "#808080",
+    "top_nav_font": "Nunito-regular-latin",
+    "nav_font": "Nunito-regular-latin",
+    "content_link_color": "#ef403d",
+    "price_color": "#ef403d",
+    "main_button_color": "#ff4367",
+    "header_font_size": "13",
+    "nav_font_size": "13",
+    "login_light_color": "#545454",
+    "login_dark_color": "#ffffff",
+    "nav_padding": "29",
+    "h1_font": "Nunito-regular-latin",
+    "h2_font": "Nunito-regular-latin",
+    "h3_font": "Nunito-regular-latin",
+    "h4_font": "Nunito-regular-latin",
+    "h5_font": "Nunito-regular-latin",
+    "h6_font": "Nunito-regular-latin",
+    "widget_title_font": "Nunito-regular-latin",
+    "body_font_family": "Nunito-regular-latin",
+    "theme_style": "",
+    "logo_top_padding": "10",
+    "single_menu_font_family": "Nunito-regular-latin",
+    "heading_font": "Nunito-600-latin",
+    "body_font_size": "16"
+  },
+  "wplms_registration_forms": {
+    "main": {
+      "settings": {
+        "hide_username": "on",
+        "password_meter": "on",
+        "google_captcha": "on",
+        "custom_activation_mail": "10",
+        "default_role": "",
+        "save_form_settings": "Save"
+      },
+      "fields": [
+        "Name"
+      ]
+    }
+  },
+  "widget_wplms_instructor_students_widget": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_push_notifications": {
+    "2": {
+      "title": "Send push notification",
+      "users": "1",
+      "width": "col-md-6 col-sm-12"
+    },
+    "_multiwidget": 1
+  },
+  "lms_settings": {
+    "general": {
+      "vibe_display_course_curriculum": "on",
+      "vibe_display_course_events": "0",
+      "vibe_display_course_activity": "0",
+      "vibe_display_course_drive": "0",
+      "curriculum_accordion": "on",
+      "skip_course_status": "on",
+      "course_curriculum_below_description": "on",
+      "in_course_quiz": "on",
+      "in_course_quiz_paged": "5"
+    }
+  }
+}

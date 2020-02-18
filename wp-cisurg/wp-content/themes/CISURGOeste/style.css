@@ -1,0 +1,167 @@
+/*
+Theme Name: CIS-URG Oeste
+Theme URI:
+Author: Daniel Wanelle
+Author URI:
+Description: Tema desenvolvido para o portal do Consórcio Intermunicipal de Saúde da Região Ampliada Oeste para Gerenciamento dos Serviços de Urgência e Emergência - CIS-URG Oeste
+Version: 1.0 alpha
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: cisurgoeste
+Tags: consorcio-de-saude, samu, divinopolis, centro-oeste-mg, centro-oeste-minas-gerais, regiao-macro-oeste-de-saude
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/*
+CORES PADRÃO
+
+Vermelho CIS-URG #833435
+Cinza CIS-URG #8D8C8C
+Vermelho SAMU #C20D2F
+Laranja SAMU #DD8D0C
+
+*/
+
+/* - Header - */
+.header{
+	background: #EEE;
+	border-top: 0.5rem solid #C20D2F;
+}
+.footer{
+	background: #444;
+	border-top: 0.5rem solid #C20D2F;
+}
+a{
+	color: grey;
+}
+
+.logo{
+	padding: 1rem 0;
+	width: 10vw;
+	height: auto;
+}
+
+.menu{
+	/*background: #DD8D0C;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);*/
+}
+
+.titulo{
+	padding-top: 2rem;
+}
+
+.justificativa{
+	padding-top: 1rem;
+}
+
+.endereco{
+	color: #FFF;
+	padding: 1rem 0;
+}
+
+.endereco a{
+	color: #FFF;
+	padding: 1rem 0;
+}
+
+.endereco a:hover{
+	text-decoration: none;
+	color: #C20D2F;
+}
+
+.endereco strong{
+	font-weight: bold;
+}
+
+.noticia{
+	margin: 1rem 0;
+	padding: 1rem 0;
+}
+
+.noticia h5{
+	font-weight: bold;
+	color: #C20D2F;
+}
+
+.noticia p{
+	color: #444;
+}
+
+.bg-samu{
+  background-color: #DD8D0C !important;
+	font-weight: 400;
+}
+
+a.bg-samu:hover, a.bg-samu:focus,
+button.bg-samu:hover,
+button.bg-samu:focus {
+  background-color: #C20D2F;
+}
+
+.dropdown:hover>.dropdown-menu{
+	display: block;
+}
+
+.div-slide{
+	height: min-content;
+	overflow: hidden;
+	position: relative;
+}
+
+.img-slide{
+	width: 99.1vw;
+	height: auto;
+	position: relative;
+	/*top: 50%;
+	transform: translateY(-50%);*/
+}
+
+.div-capa{
+	overflow: hidden;
+}
+
+.img-capa{
+
+}
+
+.h2{
+	padding-top: 1.5rem;
+}
+
+.postagem{
+	text-align: center;
+}
+
+.postagem h1{
+	padding: 2rem 0;
+}
+
+.postagem p{
+	padding: 0.1rem 0;
+	text-align: justify;
+}
+
+.form-justificativa{
+	padding: 1rem 1rem;
+}
+
+.login-header li{
+	list-style: none;
+}
+
+.login-header{
+	text-align: right;
+	white-space: nowrap;
+}
+
+.login-header p{
+	white-space: normal;
+}
+
+@media all and (max-width: 900px){
+	.div-slide{
+		display: none;
+	}
+}

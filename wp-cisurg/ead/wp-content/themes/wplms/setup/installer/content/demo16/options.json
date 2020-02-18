@@ -1,0 +1,353 @@
+{
+  "widget_wplms_instructor_students_widget": {
+    "_multiwidget": 1
+  },
+  "theme_mods_wplms": {
+    "0": false,
+    "nav_menu_locations": {
+      "main-menu": 143,
+      "mobile-menu": "74",
+      "footer-menu": "73"
+    },
+    "custom_css_post_id": -1
+  },
+  "wplms": {
+    "last_tab": "8",
+    "username": "",
+    "apikey": "",
+    "logo": "https://wplms.io/demos/demo16/wp-content/themes/wplms/assets/images/logo.png",
+    "mobile_logo": "https://wplms.io/demos/demo16/wp-content/themes/wplms/assets/images/logo.png",
+    "alt_logo": "https://wplms.io/demos/demo16/wp-content/themes/wplms/assets/images/logo.png",
+    "favicon": "",
+    "header_fix": "1",
+    "course_search": "0",
+    "headertop_content": "",
+    "header_content": "",
+    "title_bg": "https://wplms.io/demos/demo16/wp-content/themes/wplms/assets/images/title_bg.jpg",
+    "title_color": "#ffffff",
+    "events_sidebar": "",
+    "default_avatar": "",
+    "hide_wp_admin_bar": "",
+    "wp_admin_access": "",
+    "loop_number": "5",
+    "single_member_controls": "",
+    "members_redirect": "",
+    "student_activity": "",
+    "activity_redirect": "",
+    "group_redirect": "",
+    "activation_redirect": "",
+    "student_field": "Location",
+    "instructor_field_group": "Instructor",
+    "instructor_field": "Speciality",
+    "social_field_group": "Social Profiles",
+    "instructor_paypal_field": "",
+    "instructor_about": "About",
+    "enable_ajax_registration_login": "",
+    "custom_registration_page": "",
+    "instructor_add_students": "1",
+    "instructor_assign_badges": "1",
+    "instructor_extend_subscription": "1",
+    "teacher_form": "",
+    "certificate_page": "2111",
+    "default_course_avatar": "",
+    "course_duration_display_parameter": "86400",
+    "finished_course_access": "",
+    "notes_style": "",
+    "show_news": "",
+    "level": "",
+    "location": "",
+    "redirect_course_cat_directory": "",
+    "google_fonts_api_key": "",
+    "google_fonts": [
+      "Caveat-regular-latin",
+      "Roboto-100-latin",
+      "Roboto-300-latin",
+      "Roboto-regular-latin",
+      "Roboto-500-latin",
+      "Roboto-700-latin"
+    ],
+    "top_footer_columns": "col-md-3 col-sm-6",
+    "bottom_footer_columns": "col-md-3 col-sm-6",
+    "footer_logo": "https://wplms.io/demos/demo16/wp-content/uploads/2016/02/logo-1.png",
+    "copyright": "",
+    "footerbottom_right": "",
+    "google_analytics": "",
+    "social_icons": {
+      "social": [
+        "facebook",
+        "twitter",
+        "dribbble"
+      ],
+      "url": [
+        "#",
+        "#",
+        "#"
+      ]
+    },
+    "social_icons_type": "",
+    "tincan_endpoint": "0",
+    "tincan_user": "0",
+    "tincan_pass": "0",
+    "page_loader": "",
+    "site_lock": "",
+    "site_lock_home_page_url": "",
+    "security_key": ")O%vPnteJ(Qh",
+    "default_archive": "",
+    "excerpt_length": "20",
+    "page_comments": "",
+    "instructor_commission": "70",
+    "cache_duration": "0",
+    "google_captcha_public_key": "",
+    "google_captcha_private_key": "",
+    "google_apikey_contact": "",
+    "contact_ll": "43.730325,7.422155",
+    "map_zoom": "17",
+    "error404": "",
+    "xmlrpc": "",
+    "disable_versioning": "",
+    "wp_login_screen": "",
+    "credits": "VibeThemes"
+  },
+  "vibe_course_permalinks": {
+    "course_base": "/course",
+    "quiz_base": "/quiz",
+    "unit_base": "/unit",
+    "curriculum_slug": "/curriculum",
+    "members_slug": "/members",
+    "activity_slug": "/activity",
+    "admin_slug": "/admin",
+    "submissions_slug": "/submissions",
+    "stats_slug": "/stats",
+    "course_category_base": "",
+    "news_base": "",
+    "events_slug": "/events",
+    "drive_slug": "/drive"
+  },
+  "widget_wplms_course_codes": {
+    "_multiwidget": 1
+  },
+  "wplms_bp_emails": "3.9.2",
+  "widget_wplms_dash_activity": {
+    "2": {
+      "title": "Student Activity",
+      "number": "5",
+      "activity": "1",
+      "messages": "1",
+      "friends": "1",
+      "width": "col-md-4 col-sm-6"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_course_progress": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_contact_users": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_text": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_tasks": {
+    "2": {
+      "title": "To do List",
+      "date": "1",
+      "priority": "1",
+      "width": "col-md-4 col-sm-6"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_student_stats": {
+    "2": {
+      "title": "Student Statistics",
+      "width": "col-md-12",
+      "course": "1",
+      "quiz": "1",
+      "assignments": "1",
+      "course_chart": "Line",
+      "quiz_chart": "Line",
+      "assignment_chart": "Line"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_stats": {
+    "2": {
+      "title": "Courses",
+      "stats": "courses",
+      "width": "col-md-3 col-sm-6"
+    },
+    "3": {
+      "title": "Quizes",
+      "stats": "quizes",
+      "width": "col-md-3 col-sm-6"
+    },
+    "4": {
+      "title": "Units.",
+      "stats": "units",
+      "width": "col-md-3 col-sm-6"
+    },
+    "5": {
+      "title": "Assignments",
+      "stats": "assignments",
+      "width": "col-md-6 col-sm-12"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_notes_discussion": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_mymodules": {
+    "2": {
+      "title": "My Modules",
+      "course": "1",
+      "quiz": "1",
+      "assignment": "1",
+      "unit": "1",
+      "download": "1",
+      "number": "5",
+      "width": "col-md-4 col-sm-6"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_news": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_line_break": {
+    "_multiwidget": 1
+  },
+  "widget_wplms_instructor_dash_stats": {
+    "2": {
+      "title": "Earnings",
+      "stats": "woo_commission",
+      "width": "col-md-3 col-sm-6"
+    },
+    "3": {
+      "title": "Courses",
+      "stats": "courses",
+      "width": "col-md-3 col-sm-6"
+    },
+    "4": {
+      "title": "Quiz",
+      "stats": "quizes",
+      "width": "col-md-3 col-sm-6"
+    },
+    "5": {
+      "title": "Questions",
+      "stats": "questions",
+      "width": "col-md-3 col-sm-6"
+    },
+    "6": {
+      "title": "Units",
+      "stats": "units",
+      "width": "col-md-3 col-sm-6"
+    },
+    "7": {
+      "title": "Units",
+      "stats": "units",
+      "width": "col-md-3 col-sm-6"
+    },
+    "8": {
+      "title": "Badges",
+      "stats": "badges",
+      "width": "col-md-3 col-sm-6"
+    },
+    "9": {
+      "title": "Certificates",
+      "stats": "certificates",
+      "width": "col-md-3 col-sm-6"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_instructor_stats": {
+    "2": {
+      "title": "Instructor Statistics",
+      "width": "col-md-12",
+      "range": "10",
+      "max": "10"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_instructor_commission_stats": {
+    "2": {
+      "title": "Commissions",
+      "width": "col-md-12"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_announcement": {
+    "2": {
+      "title": "Announcement",
+      "width": "col-md-6 col-sm-12"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_instructing_modules": {
+    "2": {
+      "title": "Instructing Modules",
+      "course": "1",
+      "quiz": "1",
+      "assignment": "1",
+      "unit": "1",
+      "number": "5",
+      "width": "col-md-6 col-sm-12"
+    },
+    "_multiwidget": 1
+  },
+  "widget_wplms_dash_cal": {
+    "_multiwidget": 1
+  },
+  "vibe_customizer": {
+    "header_style": "transparent",
+    "login_style": "full_login",
+    "course_layout": "c2",
+    "header_top_bg": "#303030",
+    "header_top_color": "#f2f2f2",
+    "login_light": "#313b3d",
+    "login_dark": "#232b2d",
+    "login_light_text": "#666666",
+    "login_dark_text": "#444444",
+    "nav_bg": "#ed4f00",
+    "header_bg": "",
+    "nav_color": "#FFF",
+    "header_color": "#ffffff",
+    "theme_skin": "elegant",
+    "primary_bg": "#ec5f4c",
+    "primary_color": "#000000",
+    "directory_layout": "d2",
+    "body_bg": "#ffffff",
+    "single_dark_color": "#413f5d",
+    "single_light_color": "#ffffff",
+    "profile_layout": "p2",
+    "footer_style": "single",
+    "custom_css": "#content{padding-top:0 !important;}\n#item-nav{border-top:none !important;  }\n.elegant #buddypress #item-header,#title{border:none !important;}\n.widget .course-star-rating{display:block;}\nnav .menu li:hover.hasmegamenu>.sub-menu {\n    left: 20%;}\n#course-directory-form .course_category{margin-bottom:30px;}\n.single-item.groups #item-body{margin-top:30px;}#trigger{padding:10px 0 0; margin-top:-10px;}\n\n\n.elementor-social-icon {\n    font-size: 14px;\n}\n#instructor-intro{\n}\n#instructor-intro .counter{\nz-index:-1;\n}\n\n.button{color:#fff !important;} \n.insert-media.add_media, .thickbox.button{color:#000 !important;} \n.unit_prevnext a {\n    color: #fff !important;\n}\n.course_timeline {\n    border-color: #e6e6e6 !important;\n}\n.page-template-start .course_timeline h4 {\n    background-color: #ec5f4c;\n}\n\n.flexMe\n#instructor-intro .about-ins{\n    top: -32%;\n}\n.bold-text-box .title-1{\nposition: relative;\n    font-size: 16px;\n    font-weight: 300;\n    line-height: 0.8;\n    letter-spacing: .3px;\n    padding: 0 0 13px;\n    margin: 0px 0 20px;\n}\n.bold-text-box .title-1 strong{\n    font-size: 48px;\n    font-weight: 500;\n    line-height: .6;\n    letter-spacing: .8px;\n    margin-bottom: 25px;\n    display: block;\n    text-transform: capitalize;\ncolor:#413f5d;\n}\n.title-2 {\n    font-size: 16px;\n    line-height: 26px;\n    letter-spacing: .3px;\n    font-weight: 300;\n    padding-right: 95px;\n}\n\nh1{\ntext-transform:capitalize;\nfont-size:60px !important;\nfont-weight:200 !important;\npadding: 20px 0 0px !important;\n}\n.feature-box .elementor-image-box-wrapper img{\nwidth:70%;\n}\n.contact_form {\n    background-color: #fff;\n    padding: 40px 50px 50px;\n    width: 478px !important;\n    box-sizing: border-box;\n    margin: 6px 6px 6px 28px;\n    position: relative;\n    z-index: 1;\n}\n.contact_form label {\n    font-size: 17px;\n    line-height: 1.5;\n    letter-spacing: .3px;\n    font-weight:400;\nmargin-bottom:10px;\n}\n\n\n.contact_form input {\n    height: 50px;\n    background-color: #fefefe;\nborder: 1px solid #e2e2e2;\n    line-height: 1.5;\n    letter-spacing: .3px;\n    -webkit-border-radius: 5px;\n    -moz-border-radius: 5px;\n    border-radius: 5px;\nmargin-bottom:20px;\n}\n.submit_registration_form.button {\n    font-size: 18px;\n    letter-spacing: .4px;\n    color: #fff;\n    text-transform: none;\n    font-weight: 500;\n    height: 50px;\n    width:100%;\n    border: 1px solid #e2e2e2;\n    line-height: 1.5;\n    border-radius:5px;\ntext-align:center;\n}\n.primary-heading{\nfont-size: 70px;\n    font-weight: 400;\n    line-height: 1.1;\n    letter-spacing: 1.4px;\n    margin: 0 0 10px;\ncolor:#fff;\n}\n.secondary-heading{\nfont-size: 16px;\n    line-height: 1.5;\n    letter-spacing: .3px;\n    color: #f6f6f7;\n    text-transform: uppercase;\n    margin: 0;\n}\n.form-text-box .elementor-widget-container{width:478px;padding: 56px 50px 0px;}\n.form-text-box .sub-title {\n    font-size: 20px;\n    font-weight: 300;\n    letter-spacing: .4px;\n    line-height: 1.2;\n    margin-bottom: 6px;\n    text-transform: uppercase;\n}\n.form-text-box .main-title{\n    font-size: 40px;\n    font-weight: 500;\n    line-height: 1.1;\n    letter-spacing: .8px;\n    margin-bottom: 26px;\n}\n.thin-heading{    \nposition: relative;\n    right: 0;\n    top: 322px;}\n.block.course7 .block_content {\n    background: #fff;\n}\n.bold-text-box img{\ndisplay:block;\npadding: 30px 0 30px 0;\nwidth:30%;\n}\n.bold-text-box{\n    background: #fff;\n    padding: 53px;\n    color:#000;\n}\n.counter .numscroller{\nfont-size: 68px;\n    color: #fff;\n}\n\n.counter .elementor-shortcode{\n    font-size: 18px;\n    line-height: 1.5;\ncolor:#fff;\ntext-align: center;\n}\n.menu{float:right;}\n.menu li{float:left;}\n\n.feature-box .elementor-image-box-title{color:#41405d !important;font-size:18px;}\n\n.feature-box .elementor-image-box-description{\n    color: #413f5d !important;\n    font-weight: 300 !important;\n    font-size: 16px;\n       padding: 5px 40px;\n\n}\n.feature-box:hover .elementor-image-box-title{color: #ec5f4c !important;\ntransition:0.4s all;}\n\n\n#feature-ins .small-text .elementor-text-editor:after {\n    content: \"\";\n    position: absolute;\n    right: 49%;\n    height: 1px;\n    background-color: red;\n    width: 70px;\n    top: 55px;\n}\n\n.testimonial-content h4{    \nfont-size: 28px;\n    color: #413f5d;\n    font-style: italic;\n    font-weight: 400;\nmargin-bottom:25px;\n}\n.testimonial-content p{\nfont-size: 20px;\n    font-style: italic;\n    color: #8e8e8e;\n}\n.author h4{color: #ec5f4c;display:inline-block;}\n.author h4:after {\n    content: \",\";\n    margin-right: 10px;\n}\n.author small{font-size: 1.5rem;\n    display: inline-block;}\n.author a{display:block;margin-bottom:20px;}\n#card-box img{width:25%;float:left;margin-right:25px;}\n#card-box h2{font-size: 16px;\n    text-transform: uppercase;\n    letter-spacing: 1px;\n    color: #955ba5;margin-top:0;}\n#card-box p{font-size: 16px;\n    color: #413f5d;\n    letter-spacing: 1px;}\n\n#card-box .elementor-text-editor{\nmargin: 15px;\n        height: 205px;\n    padding: 40px;\n    background-color: #fff;\n    border-radius: 8px;\n    -webkit-box-shadow: 0 13px 27px -5px rgba(50,50,93,.25), 0 8px 16px -8px rgba(0,0,0,.3), 0 -6px 16px -6px rgba(0,0,0,.025);\n    box-shadow: 0 13px 27px -5px rgba(50,50,93,.25), 0 8px 16px -8px rgba(0,0,0,.3), 0 -6px 16px -6px rgba(0,0,0,.025);\n    -webkit-transition-property: color,background-color,-webkit-box-shadow,-webkit-transform;\n    transition-property: color,background-color,-webkit-box-shadow,-webkit-transform;\n    transition-property: color,background-color,box-shadow,transform;\n    transition-property: color,background-color,box-shadow,transform,-webkit-box-shadow,-webkit-transform;\n    -webkit-transition-duration: .15s;\n    transition-duration: .15s;\n}\n\n#card-box .elementor-text-editor:hover{\n    -webkit-box-shadow: 0 30px 60px -12px rgba(50,50,93,.25), 0 18px 36px -18px rgba(0,0,0,.3), 0 -12px 36px -8px rgba(0,0,0,.025);\n    box-shadow: 0 30px 60px -12px rgba(50,50,93,.25), 0 18px 36px -18px rgba(0,0,0,.3), 0 -12px 36px -8px rgba(0,0,0,.025);\n    color: #32325d!important;\n    -webkit-transform: translateY(-2px);\n    transform: translateY(-2px);\n}\n.footertitle{\n    font-size: 17px;\n    font-weight: 700;\n    border-bottom: 2px solid #fff;\n    width: 55%;\n    padding-bottom: 4px;\n    margin-bottom: 25px;\n}\n.footertext h2{\nfont-weight: 800; font-size: 24px; margin: 10px 0; padding: 0;color:#fff\n}\n.footertext p{color:#fff;display:block;padding-right:50px;}\n .footertext .button{color:#fff;}\n#footertop h5{margin-left:23px;color:#fff;font-size: 19px;\n    font-weight: 700;\n    border-bottom: 2px solid #fff;width:max-content;}\n#footertop .menu, #footertop .menu li {\n    float: none;\n}\n.menu li a{\n    color: #fff;\n    font-family: Roboto;\n    font-weight: 400;\n    font-style: normal;\n    font-size: 14px;\n    line-height: 14px;\n    text-transform: uppercase;\n    padding-right: 0;\n    position: relative;\n    display: block;\n    padding: 18px 23px;\n}\n.bottomfooter{\nfont-size:20px;\ntext-transform:uppercase;\n}\n.abt-btn{\ncolor: #ec5f4c !important;\n    background: transparent;\n    border: 2px solid #ec5f4c;\n    border-radius: 30px;\n    font-size: 16px;\n}\n.abt-btn:hover{\ncolor:#fff;\n}\n.registration.form{\n    border-style: solid;\n    border-width: 6px 6px 6px 6px;\n    border-color: rgba(0,0,0,0.42);\nborder-top:0;\n}\n.headertop_content{\nfont-size: 14px;\n    color: #000000;\n    font-weight: 300;\n}\n.block.course7 {\n    border: none;\n    box-shadow: 2PX 7PX 20px 0px #963b2f;\n}\n.progressbar_wrap {\n    margin: 30px 0 0;\n}\n.footertop .menu, .footertop .menu li{\nfloat:none;\n}\n.footertop .menu li a{\n    padding-left: 0 !important;\n}\nfooter {\n    padding: 60px 0;  \n}\nfooter .form_field{\n    border-color: #5a5a5a !important;\n}\n\n\n.banner-bg{\nbackground:url(\"https://wplms.io/demos/demo16/wp-content/uploads/2019/04/home4-bg-slider.jpg\");\nbackground-size:cover;\nbackground-repeat:no-repeat;\nheight:42%;\n    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;\n    padding: 120px 0px 0px 0px;\n}\n\n.attachment-full{\n    z-index: 5;\n    position: relative;\n}\n\n.form-bg{\nbackground-image: url(https://wplms.io/demos/demo16/wp-content/uploads/2019/05/photo-1503428593586-e225b39bddfe-1.jpeg);\nbackground-attachment:fixed;\n}\n.elementor-2254 .elementor-element.elementor-element-ed244d5 {\n    margin-top: 0px !important;\n}\n.about-ins{\n position: absolute;\n    right: 0;\n    z-index: 6;}\n\n\n.abt-btn:hover {\n    color: #fff;\n    background: #ec5f4c;\n}\n.home ul.slides li{\n}\n .elegant #title h1{color:#fff;}\n\n.testimonials2{\n    padding: 60px;\n}\n.testimonials2:hover .testimonial_item{\n    box-shadow: 0px 7px 16px 0px #efefef;\ntransition: .5s easeIn;\n}\n.text:hover{color:#fff;}\n\n\n/* RTL CSS STARTS */\n\n.rtl .footertop .menu li a{padding-right:0;}\n.rtl #card-box p{margin-right:0 !important;}\n.rtl .submit_registration_form.button {margin-right: 0;}\n.rtl .feature-box .elementor-image-box-wrapper {text-align: right;}\n.rtl .feature-box .elementor-image-box-description {padding-right:0px;margin-right:0 !important;}\n.rtl .title-2 {padding-right: 0;}\n.rtl .box-about-ins {left: 0;}\n\n/* RTL CSS ENDS */\n\n\n @media screen and ( max-width:1220px)\n{\n.title-2 {\n    line-height: inherit;\n    padding-right: 0;\n}\n.bold-text-box .title-1 strong {\n    font-size: 30px;\n}\n.counter .numscroller {\n    font-size: 48px;\n}\n.form-text-box .elementor-widget-container {\n    width: auto;\n}\n.form-text-box .elementor-widget-container {\n    margin: auto;\n}\n.contact_form {\n    margin: 6px 0px 6px 28px;\n}\n.elegant header nav>.menu>li>a {\n    font-size:11px;\n}\n .elementor-2254 .elementor-element.elementor-element-d41e6d0, .elementor-2254 .elementor-element.elementor-element-488516e{\nwidth:100% !important;\n}\n.elementor-2254 .elementor-element.elementor-element-84f3705 > .elementor-widget-container {\n    padding: 0px 0px 0px 0px;\n}\n.about-ins {\n    position: relative;}\n.elementor-2254 .elementor-element.elementor-element-4c840b4 {\n    margin-top: 0px;\n}\n.counter .elementor-widget-container{\nmargin-top:0 !important;\n  padding: 35px 0px 35px 0px !important;\n}\n.banner-bg {\n    height: auto;\n}\n.one_fourth{\n     padding-bottom: 35px;\n}\n}\n\n@media screen and ( max-width:768px)\n{\n\n.banner-bg {\n    height: auto;\n}\n.counter .elementor-widget-container{\n    padding: 35px 0px !important;\n}\n#card-box .elementor-text-editor{\nheight: auto;\n}\n.elementor-2254 .elementor-element.elementor-element-ed244d5 > .elementor-container{min-height:auto;}\n.counter .elementor-shortcode {\n    display: grid;\n    grid-template-columns: 25% 25% 25% 25%;\n}\n\n\n}\n\n\n@media screen and ( max-width:414px)\n{\n.one_fourth {\n    min-width: auto;\n}\n.counter .numscroller {\n    font-size: 30px;\n}\n.feature-box {\n    margin-bottom: 40px;\n}\n.bold-text-box {\n    padding: 60px 15px;\n}\n.elementor-2254 .elementor-element.elementor-element-f4e5f5f > .elementor-widget-container, .contact_form{\n    margin-left:0px;\n}\n.filterableitems_container {\n    margin-right: 0px !important;\n}\n.filterableitems_container .filteritem {\n    max-width: 100% !important;\n}\n.thin-heading {\n    top: 0;\n}\n#card-box .elementor-text-editor{\nheight: auto;\n}\n.sidemenu li a {\n    color: #ffffff;\n}\n.footertext .button {\n    display: table;\n    margin: 20px 0 40px;\n}\n.footertitle {\n    width: 35%;\n}\n.footertop .menu li a {\n    padding-left: 0 !important;\n    padding-top: 0 !important;\n    padding-bottom: 25px !important;\n}\n.banner-bg {\n    padding: 80px 0px 0px 0px;\n}\n.elementor-2254 .elementor-element.elementor-element-f4e5f5f > .elementor-widget-container {\n    margin: 0px 0px -52px 0px;\n}\n}\n@media screen and (max-width: 320px){\n.one_fourth {\n    font-size: 14px;\n}\n.counter .numscroller {\n    font-size: 24px;\n}\n}",
+    "group_layout": "g2",
+    "top_nav_font": "Roboto-regular-latin",
+    "nav_font": "Roboto-regular-latin",
+    "h1_font": "Roboto-700-latin",
+    "h2_font": "Roboto-500-latin",
+    "h3_font": "Roboto-regular-latin",
+    "h4_font": "Roboto-300-latin",
+    "h5_font": "Roboto-300-latin",
+    "h6_font": "Roboto-100-latin",
+    "body_font_size": "14",
+    "body_font_family": "Roboto-regular-latin",
+    "single_menu_font_size": "16",
+    "single_menu_font_family": "Roboto-regular-latin",
+    "logo_size": "58",
+    "header_font_size": "16",
+    "footer_bg": "#413f5d",
+    "footer_bottom_bg": "#3d3a5b",
+    "main_button_color": "#ec5f4c"
+  },
+  "wplms_registration_forms": {
+    "contact_form": {
+      "settings": {
+        "hide_username": "on",
+        "custom_activation_mail": "0",
+        "default_role": "",
+        "save_form_settings": "Save"
+      }
+    }
+  },
+  "woocommerce_cart_redirect_after_add": "yes",
+  "woocommerce_enable_ajax_add_to_cart": "no"
+}

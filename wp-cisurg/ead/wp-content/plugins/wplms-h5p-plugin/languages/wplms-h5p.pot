@@ -1,0 +1,198 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe Course Module\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-13 16:20+0530\n"
+"PO-Revision-Date: 2017-07-21 13:26+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: vibethemes <vibethemes@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/wplms.h5p.class.php:32 classes/wplms.h5p.class.php:81
+#: classes/wplms.h5p.class.php:151
+msgid "Security check Failed. Contact Administrator."
+msgstr ""
+
+#: classes/wplms.h5p.class.php:68
+msgctxt "Insert label on h5p"
+msgid "Insert"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:69
+msgctxt "title lable on table"
+msgid "Title"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:70
+msgctxt "previous"
+msgid "Previous"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:71
+msgctxt "next"
+msgid "Next"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:73
+msgctxt "Add wplms h5p label on h5p"
+msgid "Add wplms h5p"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:132 classes/wplms.h5p.class.php:179
+msgctxt ""
+msgid "Quiz evaluated"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:145
+msgid "Please install H5P for WordPress to use WPLMS H5P plugin"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:145
+msgid "Show details"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:226
+#, php-format
+msgid "Database error: %s."
+msgstr ""
+
+#: classes/wplms.h5p.class.php:230
+#, php-format
+msgid "Cannot find H5P content with slug: %s."
+msgstr ""
+
+#: classes/wplms.h5p.class.php:297
+msgctxt "check results lable h5p"
+msgid "Check Results"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:644
+msgid "Fullscreen"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:645
+msgid "Disable fullscreen"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:646
+msgid "Download"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:647 classes/wplms.h5p.class.php:653
+msgid "Rights of use"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:648
+msgid "Embed"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:649
+msgid "Size"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:650
+msgid "Show advanced"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:651
+msgid "Hide advanced"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:652
+msgid ""
+"Include this script on your website if you want dynamic sizing of the "
+"embedded content:"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:654
+msgid "Close"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:655
+msgid "Title"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:656
+msgid "Author"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:657
+msgid "Year"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:658
+msgid "Source"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:659
+msgid "License"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:660
+msgid "Thumbnail"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:661
+msgid "No copyright information available for this content."
+msgstr ""
+
+#: classes/wplms.h5p.class.php:662
+msgid "Download this content as a H5P file."
+msgstr ""
+
+#: classes/wplms.h5p.class.php:663
+msgid "View copyright information for this content."
+msgstr ""
+
+#: classes/wplms.h5p.class.php:664
+msgid "View the embed code for this content."
+msgstr ""
+
+#: classes/wplms.h5p.class.php:665
+msgid "Visit H5P.org to check out more cool content."
+msgstr ""
+
+#: classes/wplms.h5p.class.php:666
+msgid "This content has changed since you last used it."
+msgstr ""
+
+#: classes/wplms.h5p.class.php:667
+msgid "You'll be starting over."
+msgstr ""
+
+#: classes/wplms.h5p.class.php:668
+msgid "Confirm action"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:669
+msgid "Please confirm that you wish to proceed. This action is not reversible."
+msgstr ""
+
+#: classes/wplms.h5p.class.php:670
+msgid "Cancel"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:671
+msgid "Confirm"
+msgstr ""
+
+#: classes/wplms.h5p.class.php:687
+msgid "Missing H5P identifier."
+msgstr ""
+
+#: classes/wplms.h5p.class.php:695
+#, php-format
+msgid "Cannot find H5P content with id: %d."
+msgstr ""
